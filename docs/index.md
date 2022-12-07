@@ -20,12 +20,6 @@ __Brigham Young University Idaho__, Rexburg, ID
 - Certificate for Programming
 - Class experience includes HTML, CSS, Sass, PHP, SQL, Database design and development, JavaScript,NodeJS, Java, Python, C# 
 
-`Expected 2023`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
-
 ## Related Experience
 
 ### Internships
