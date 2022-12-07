@@ -1,7 +1,3 @@
----
-layout: cv
-title: Dixie Cravens's Resume
----
 # Dixie Cravens
 Bachelor of Science in Applied Technology Senior at BYU Idaho
 
