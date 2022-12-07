@@ -15,7 +15,7 @@ Bachelor of Science in Applied Technology Senior at BYU Idaho
 
 ## Education
 
-`2015-2022`
+`Expected 2023`
 __Brigham Young University Idaho__, Rexburg, ID
 
 - Online student with 4.0 GPA
