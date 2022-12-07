@@ -6,7 +6,7 @@ title: Dixie Cravens's Resume
 Bachelor of Science in Applied Technology Senior at BYU Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="mailto:cra16032@byui.edu">cra16032@byui.edu</a>
 | <a href="https://github.com/Cravens-Dixie">GitHub</a>
 | <a href="https://www.linkedin.com/in/dixie-c-8234521b7/">LinkedIn</a>
 </div>
