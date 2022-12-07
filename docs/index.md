@@ -2,7 +2,7 @@
 Bachelor of Science in Applied Technology Senior at BYU Idaho
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="mailto:cra16032@byui.edu">cra16032@byui.edu</a>
 | <a href="https://github.com/Cravens-Dixie">GitHub</a>
 | <a href="https://www.linkedin.com/in/dixie-c-8234521b7/">LinkedIn</a>
 </div>
@@ -11,7 +11,7 @@ Bachelor of Science in Applied Technology Senior at BYU Idaho
 
 ## Education
 
-`2015-2023`
+`Expected 2023`
 __Brigham Young University Idaho__, Rexburg, ID
 
 - Online student with 4.0 GPA
