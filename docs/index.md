@@ -1,7 +1,3 @@
----
-layout: cv
-title: Dixie Cravens's Resume
----
 # Dixie Cravens
 Bachelor of Science in Applied Technology Senior at BYU Idaho
 
@@ -15,7 +11,7 @@ Bachelor of Science in Applied Technology Senior at BYU Idaho
 
 ## Education
 
-`2015-2022`
+`2015-2023`
 __Brigham Young University Idaho__, Rexburg, ID
 
 - Online student with 4.0 GPA
@@ -23,12 +19,6 @@ __Brigham Young University Idaho__, Rexburg, ID
 - Certificate for Web Backend Development
 - Certificate for Programming
 - Class experience includes HTML, CSS, Sass, PHP, SQL, Database design and development, JavaScript,NodeJS, Java, Python, C# 
-
-`Expected 2023`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
 
 ## Related Experience
 
