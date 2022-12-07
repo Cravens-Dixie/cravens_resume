@@ -7,9 +7,8 @@ Bachelor of Science in Applied Technology Senior at BYU Idaho
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/Cravens-Dixie">GitHub</a>
+| <a href="https://www.linkedin.com/in/dixie-c-8234521b7/">LinkedIn</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
